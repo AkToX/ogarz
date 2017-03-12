@@ -1,0 +1,407 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "OGARZ SERVER",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 11,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "48px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.25",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sans-titre-170x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.youtube.com/channel/UCpJ8wfSJl9kfn7acI_u3IYg?sub_confirmation=1",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "youtube",
+              "family": "socicon",
+              "link": "https://www.youtube.com/channel/UCpJ8wfSJl9kfn7acI_u3IYg?sub_confirmation=1",
+              "size": "",
+              "newWindow": true,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;OGARZ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.discord.me/vincebots\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>DISCORD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016-2017 OgarZ"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "WELCOME TO OGARZ.FR<br>",
+          "text": "We have created OgarZ for add to the agar games more fun, on our server you can find differents mods.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://adf.ly/1lMyYB\" data-toolbar=\"-mbrBtnMove\">PLAY NOW</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "4",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ADD SKIN FOR FREE",
+                "showText": true,
+                "text": "Now, you can add your personnal skin with your personnal name.<br>Yes, it's cool ;D",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://adf.ly/1lMyJo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ADD MY SKIN<br></a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "COMMANDS&nbsp;",
+                "showText": true,
+                "text": "<br>Tricksplit Macro ▶ SHIFT | 4 | A | 3<br>Doublesplit Macro ▶ D | 2<br>Space Macro ▶ S | 1<br>Split bots ▶ E<br>Feed bots ▶ R<br>Eat pellets bots ▶ P<br>Freeze bots ▶ T<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-6",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<i>STAFF</i><br><br>OWNERS<br><span style=\"font-weight: normal;\">Vince<br>AkToX</span><br><br>MODERATORS<br><span style=\"font-weight: normal;\">Nexio</span><br><span style=\"font-weight: normal;\">Frozak</span><span style=\"font-weight: normal;\"><br></span><br>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "color": "#efefef",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-8",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DONATION",
+          "text": "You can make donation for help up and make the server better !",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://youtube.streamlabs.com/UCpJ8wfSJl9kfn7acI_u3IYg#/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I WANT DONATE&nbsp;<br></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-weight: normal;\">↪WHAT IS YOUR FAVORITE GAMEMODE ?↩</span>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHH9IWA0D2fd4R0z2I06_Zfj3LtUxvFiuUwulcKR9S7jdUag/viewform?c=0&amp;w=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOTE NOW</a>",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "72px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-a",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "FOLLOW US<br><br>",
+          "text": "<p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Http://www.ogarz.fr\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        }
+      ]
+    }
+  }
+}
