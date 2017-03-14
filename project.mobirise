@@ -179,7 +179,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -211,7 +211,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -225,8 +225,8 @@
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
@@ -250,12 +250,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "color": "#efefef",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
           "_anchor": "header1-7",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -272,15 +280,7 @@
           },
           "title": "<i>STAFF</i><br><br>OWNERS<br><span style=\"font-weight: normal;\">Vince<br>AkToX</span><br><br>MODERATORS<br><span style=\"font-weight: normal;\">Nexio</span><br><span style=\"font-weight: normal;\">Frozak</span><span style=\"font-weight: normal;\"><br></span><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "72px",
-              "color": "#efefef",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -336,12 +336,18 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "72px",
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-9",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -358,13 +364,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">↪WHAT IS YOUR FAVORITE GAMEMODE ?↩</span>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHH9IWA0D2fd4R0z2I06_Zfj3LtUxvFiuUwulcKR9S7jdUag/viewform?c=0&amp;w=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOTE NOW</a>",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "font-size": "72px",
-              "color": "#000000"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHH9IWA0D2fd4R0z2I06_Zfj3LtUxvFiuUwulcKR9S7jdUag/viewform?c=0&amp;w=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOTE NOW</a>"
         },
         {
           "_inherit": "msg-box8",
