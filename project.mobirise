@@ -133,9 +133,9 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "youtube",
+              "name": "angellist",
               "family": "socicon",
-              "link": "https://www.youtube.com/channel/UCpJ8wfSJl9kfn7acI_u3IYg?sub_confirmation=1",
+              "link": "https://ogarz.fr",
               "size": "",
               "newWindow": true,
               "active": true
@@ -180,7 +180,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#475577",
+            "bgColor": "#d14841",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -402,7 +402,7 @@
           },
           "title": "FOLLOW US<br><br>",
           "text": "<p>.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Http://www.ogarz.fr\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Http://www.ogarz.fr\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/channel/UCpJ8wfSJl9kfn7acI_u3IYg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a>"
         }
       ]
     }
